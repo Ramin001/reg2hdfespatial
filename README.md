@@ -1,7 +1,7 @@
 # reg2hdfespatial
 Spatial and serial correlation adjustment for regressions with high dimensional fixed effects. This version also includes the possibility of instrumental variable regression and working with weighted data
 
-the main building block is the code created by Solomon Hsiang used in the following paper:
+The main building block is the code created by Solomon Hsiang used in the following paper:
 Hsiang, Solomon M. "Temperatures and cyclones strongly associated with economic production in the Caribbean and Central America." Proceedings of the National Academy of sciences 107, no. 35 (2010): 15367-15372.
 you can access Solomon's main code here:
 http://www.fight-entropy.com/2010/06/standard-error-adjustment-ols-for.html

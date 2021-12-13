@@ -3,7 +3,8 @@ Spatial and serial correlation adjustment for regressions with high dimensional 
 
 The main building block is the code created by Solomon Hsiang used in the following paper:
 Hsiang, Solomon M. "Temperatures and cyclones strongly associated with economic production in the Caribbean and Central America." Proceedings of the National Academy of sciences 107, no. 35 (2010): 15367-15372.
-you can access Solomon's main code here:
+
+You can access Solomon's main code here:
 http://www.fight-entropy.com/2010/06/standard-error-adjustment-ols-for.html
 
 This code has previously been augmented to be used in regressions with high dimensional fixed effects by Thiemo Fetzer:
